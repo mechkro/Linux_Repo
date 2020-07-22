@@ -1,2 +1,5 @@
 #Useful Links
 https://www.fossmint.com/awesome-linux-software/
+
+#Useful Raspian apps
+https://www.makeuseof.com/tag/top-apps-install-raspberry-pi/
