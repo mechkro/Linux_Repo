@@ -7,7 +7,9 @@ def Tester(x,y):
 
 
 
-with open(r"tester.txt", "w")as F:
+with open(r"tester.txt", "a+")as F:
 	t = str(dt.datetime.today())
-	F.write(t)
+	F.write("I was here @ ' + t)
+
+
 
