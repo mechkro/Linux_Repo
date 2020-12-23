@@ -4,3 +4,6 @@ https://www.fossmint.com/awesome-linux-software/
 #Useful Raspian apps
 https://www.makeuseof.com/tag/top-apps-install-raspberry-pi/
 https://itsfoss.com/essential-linux-applications/
+
+#Google Linux Git cli tutorials
+TO FOLLOW
